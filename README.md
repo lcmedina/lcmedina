@@ -5,9 +5,9 @@ I'm a high school admin who nerds out over cool code. 🤓 I recently graduated 
 ##
 
 - 😄 Pronouns: She/Her
-- 🔭 I’m currently working on **myKeeper note app and Chatify**
 - 🌱 I’m currently improving my **React, Redux and PostgreSQL** skills.
 - 👯 I’m looking to collaborate on **all things frontend!**
+- - 🤔 I’m looking for help with **interview prep and job hunting**
 - 📫 How to reach me: lauracodes42@gmail.com
 
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 - ⚡ Fun fact: 
-- 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
 
 
